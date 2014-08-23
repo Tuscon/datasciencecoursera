@@ -1,4 +1,3 @@
 datasciencecoursera
 ===================
-
-new
+Just a demo readme file
